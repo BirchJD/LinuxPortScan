@@ -7,5 +7,7 @@ and the port range to scan.
 If your looking for ssh services set the to and from port range both to 22.
 
 Network=192.168.0.
+
 StartPort=1
+
 EndPort=1024
